@@ -1,0 +1,28 @@
+name: Michael Focht Photography
+favicon: null
+layout_spectrum: 0.7148856569547206
+typography_spectrum: 0.10621961578726768
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.0921682552434504
+  lightness: 0.12569143972359598
+  saturation: 0.697778609348461
+  rhythmicContrast: 0.37099996441975236
+purpose: []
